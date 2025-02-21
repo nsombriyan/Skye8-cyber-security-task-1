@@ -19,6 +19,7 @@ to ìnstall the vitual machines, i open the hypervisor software i installed, cli
 INSTALLATION OF NETWORK STIMULATOR.
 I downloaded the network simuator from a website called SourceForge. After downloading the network stimulator (GNS3-2.2.52-all-in-one), I run the installer, following the on-screen instructions to install the GNS3 netwok simulator.
 
+
 COMPLETING THE INTRODUCTION TO CYBER SECURITY COURSE ON CISCO NETWORK ACADEMY.
 
 ![introduction to cyber sicurity](https://github.com/user-attachments/assets/449e75dc-40fb-49cb-9d40-47a10f80239b)
@@ -26,7 +27,6 @@ COMPLETING THE INTRODUCTION TO CYBER SECURITY COURSE ON CISCO NETWORK ACADEMY.
 
 NETWORKING I SAW
 
-Part of Ethernet cable
-An Ethernet cable is a type of physical cable used to connect devices within a local area network (LAN), like your computer, printer, or smart TV, to a router, switch, or modem. It allows for wired communication between these devices, enabling them to share data, access the internet, and communicate with each other.
-WORKSTATIONS
-A workstation is a computer made for one person to use at a time for general tasks. It is designed to connect to a local area network. It's like a stronger version of a desktop computer, often built for specific professional or technical jobs.
+Part of Ethernet cable: An Ethernet cable is a type of physical cable used to connect devices within a local area network (LAN), like your computer, printer, or smart TV, to a router, switch, or modem. It allows for wired communication between these devices, enabling them to share data, access the internet, and communicate with each other.
+
+WORKSTATIONS: A workstation is a computer made for one person to use at a time for general tasks. It is designed to connect to a local area network. It's like a stronger version of a desktop computer, often built for specific professional or technical jobs.
