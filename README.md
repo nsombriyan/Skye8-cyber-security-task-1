@@ -19,6 +19,8 @@ to ìnstall the vitual machines, i open the hypervisor software i installed, cli
 INSTALLATION OF NETWORK STIMULATOR.
 I downloaded the network simuator from a website called SourceForge. After downloading the network stimulator (GNS3-2.2.52-all-in-one), I run the installer, following the on-screen instructions to install the GNS3 netwok simulator.
 
+![gns3](https://github.com/user-attachments/assets/2b231987-585b-421e-ab52-cce8530f8c38)
+
 
 COMPLETING THE INTRODUCTION TO CYBER SECURITY COURSE ON CISCO NETWORK ACADEMY.
 
