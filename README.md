@@ -1,5 +1,5 @@
 # Skye8-cyber-security-task-1
- To describe the process of setting up my lab environment.
+ Describing the process of setting up a suitable lab environment needed for upcomming projects.
 
 To set-up a lab evironment, a suitable host machine is needed. The host machine is the physical computer that provides resouces and services to virtual machines. Then, the virtual machine and softwares needed can be installed.
 
@@ -19,7 +19,13 @@ to ìnstall the vitual machines, i open the hypervisor software i installed, cli
 INSTALLATION OF NETWORK STIMULATOR.
 I downloaded the network simuator from a website called SourceForge. After downloading the network stimulator (GNS3-2.2.52-all-in-one), I run the installer, following the on-screen instructions to install the GNS3 netwok simulator.
 
+COMPLETING THE INTRODUCTION TO CYBER SECURITY COURSE ON CISCO NETWORK ACADEMY.
+
+![introduction to cyber sicurity](https://github.com/user-attachments/assets/449e75dc-40fb-49cb-9d40-47a10f80239b)
+
+
 NETWORKING I SAW
+
 Part of Ethernet cable
 An Ethernet cable is a type of physical cable used to connect devices within a local area network (LAN), like your computer, printer, or smart TV, to a router, switch, or modem. It allows for wired communication between these devices, enabling them to share data, access the internet, and communicate with each other.
 WORKSTATIONS
